@@ -1,0 +1,10 @@
+{
+  "name": "spotme",
+  "version": "0.1.0",
+  "description": "Gym mode for agentic coding. OpenCode and Pi plugin that scaffolds exercises and reviews your work. Keep your edge.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
